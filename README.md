@@ -1,5 +1,5 @@
 # c-programming-language
 C programming language 
 
-👨🏻‍💻first-code "Hello World :)"
-📁open folder -> screenshot -> result image
+<h3>👨🏻‍💻first-code "Hello World :)"</h3>
+<p>📁open folder -> screenshot -> result image</p>
